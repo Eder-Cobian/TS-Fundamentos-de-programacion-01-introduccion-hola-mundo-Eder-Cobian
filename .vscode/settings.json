@@ -1,0 +1,6 @@
+{
+  "git.ignoreLimitWarning": true,
+  "jest.jestCommandLine": "jest",
+  "editor.tabSize": 2,
+  "editor.useTabStops": false
+}
