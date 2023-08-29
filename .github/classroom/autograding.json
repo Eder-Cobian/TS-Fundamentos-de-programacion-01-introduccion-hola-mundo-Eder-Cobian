@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "Prueba de sayHelloWithName",
+      "name": "Prueba de add",
       "setup": "npm i",
-      "run": "npm test sayHelloWithName",
+      "run": "npm test add",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -11,9 +11,9 @@
       "points": 50
     },
     {
-      "name": "Prueba de add",
+      "name": "Prueba de sayHelloWithName",
       "setup": "",
-      "run": "npm test add",
+      "run": "npm test sayHelloWithName",
       "input": "",
       "output": "",
       "comparison": "included",
